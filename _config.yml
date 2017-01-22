@@ -1,7 +1,7 @@
 # Site settings
 title: Guida TV, la migliore guida TV italiana
 email:
-description: Guida TV, la migliore guida TV italiana
+description: Guida TV, la migliore guida TV italiana su misura per te
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
