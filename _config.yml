@@ -17,12 +17,12 @@ disqus_account: jeky-new-age
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
-  - title: twitter
-    url: https://twitter.com/mobinow
+  #- title: twitter
+  #  url: https://twitter.com/mobinow
   - title: facebook
     url: https://www.facebook.com/guidatvonline
-  - title: google-plus
-    url: https://plus.google.com/+mobinow
+  #- title: google-plus
+  #  url: https://plus.google.com/+mobinow
   #- title: github
   #  url: http://github.com/jekyll
 
